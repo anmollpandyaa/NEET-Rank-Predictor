@@ -66,9 +66,6 @@ A Java-based application that analyzes quiz performance by fetching and processi
 - ✅ Enhance visualization (Charts, Graphs)
 - ✅ Implement a web dashboard
 
-## 🤝 Contribution
-Feel free to fork and contribute! Open an issue or submit a PR if you have improvements.
-
 ## 📜 License
 This project is licensed under **MIT License**.
 
