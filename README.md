@@ -1,4 +1,4 @@
-# 📊 Quiz Performance Analysis
+# 📊 NEET Rank Predictor
 
 A Java-based application that analyzes quiz performance by fetching and processing quiz data from APIs. It identifies weak areas, detects trends, and predicts future performance.
 
@@ -19,7 +19,7 @@ A Java-based application that analyzes quiz performance by fetching and processi
 
 ## 📂 Project Structure
 ```
-📦 quiz-performance-analysis
+📦 TestlineR1
  ┣ 📜 src
  ┃ ┣ 📜 main
  ┃ ┃ ┗ 📜 java/org/example/ApiFetcher.java
